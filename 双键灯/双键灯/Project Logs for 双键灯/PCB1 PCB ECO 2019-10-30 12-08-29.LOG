@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetLED3_1 Pin=R7-2
+Removed Pin From Net: NetName=NetLED1_1 Pin=R8-1
+Removed Pin From Net: NetName=NetLED2_2 Pin=U2-5
+Removed Pin From Net: NetName=NetLED1_2 Pin=U2-6
+Removed Pin From Net: NetName=NetLED3_2 Pin=U2-10
+Removed Pin From Net: NetName=NetLED4_2 Pin=U2-16
+Added Pin To Net: NetName=NetLED3_1 Pin=LED1-A
+Added Pin To Net: NetName=NetLED3_2 Pin=LED1-K
+Added Pin To Net: NetName=NetLED3_1 Pin=LED2-A
+Added Pin To Net: NetName=NetLED4_2 Pin=LED2-K
+Added Pin To Net: NetName=NetLED1_1 Pin=LED3-A
+Added Pin To Net: NetName=NetLED2_2 Pin=LED3-K
+Added Pin To Net: NetName=NetLED1_1 Pin=LED4-A
+Added Pin To Net: NetName=NetLED1_2 Pin=LED4-K
+Added Pin To Net: NetName=NetLED1_1 Pin=R7-2
+Added Pin To Net: NetName=NetLED3_1 Pin=R8-1
+Added Pin To Net: NetName=NetLED4_2 Pin=U2-5
+Added Pin To Net: NetName=NetLED3_2 Pin=U2-6
+Added Pin To Net: NetName=NetLED2_2 Pin=U2-10
+Added Pin To Net: NetName=NetLED1_2 Pin=U2-16
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED3_A
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED4_K
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED3_K
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED1_A
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED1_K
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED2_K
+Added Room: Name=Ë«¼üµÆ

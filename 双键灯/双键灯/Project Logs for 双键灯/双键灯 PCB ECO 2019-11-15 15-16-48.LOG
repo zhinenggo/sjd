@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetP2_4 Pin=P1-
+Removed Pin From Net: NetName=NetP1_4 Pin=P2-
+Removed Pin From Net: NetName=NetLED1_A Pin=R8-1
+Removed Pin From Net: NetName=5V Pin=R8-2
+Change Component Comment : Designator=C3 Old Comment=cap New Comment=1uF
+Change Component Comment : Designator=C4 Old Comment=cap New Comment=1uF
+Change Component Comment : Designator=C1 Old Comment=cap New Comment=33nF
+Change Component Comment : Designator=Q1 Old Comment=pnp New Comment=AO3400
+Change Component Comment : Designator=Q2 Old Comment=pnp New Comment=AO3400
+Change Component Comment : Designator=R1 Old Comment=res New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=res New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=res New Comment=4.7K
+Change Component Comment : Designator=R6 Old Comment=res New Comment=4.7K
+Change Component Comment : Designator=R3 Old Comment=res New Comment=100R
+Change Component Comment : Designator=R4 Old Comment=res New Comment=100R
+Change Component Comment : Designator=R7 Old Comment=res New Comment=680R
+Change Component Comment : Designator=R8 Old Comment=res New Comment=680R
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED3
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=NetLED1_A Pin=R8-2
+Change Net Name : Old Net Name=12V New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetLED1_K New Net Name=NetLED2_K
+Change Net Name : Old Net Name=NetLED2_K New Net Name=NetLED1_K
+Change Net Name : Old Net Name=NetLED3_K New Net Name=NetLED4_K
+Change Net Name : Old Net Name=NetLED4_K New Net Name=NetLED3_K
+Added Pin To Net: NetName=H_C Pin=U2-1
+Added Net: Name=H_C
+Added Pin To Net: NetName=P1 Pin=U2-4
+Added Net: Name=P1
+Added Pin To Net: NetName=P2 Pin=U2-3
+Added Net: Name=P2
+Added Room: Name=Ë«¼üµÆ

@@ -1,0 +1,153 @@
+Added Component: Designator=*24(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(3806(020LED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(3806(020LED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED3(3806(020LED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED4(3806(020LED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(TOUCH_PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(TOUCH_PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(PAD_2 _ab)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P5(PAD*3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(TO-252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(TO-252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOT-89)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOP16)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*13_1 Pin=*24-1
+Added Pin To Net: NetName=Net*10_2 Pin=*24-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Net*1_1 Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Net*10_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=Net*13_1 Pin=P3-2
+Added Pin To Net: NetName=Net*3_4 Pin=P4-1
+Added Pin To Net: NetName=Net*13_1 Pin=P5-1
+Added Pin To Net: NetName=Net*4_1 Pin=P5-2
+Added Pin To Net: NetName=Net*5_4 Pin=P5-3
+Added Pin To Net: NetName=Net*5_4 Pin=Q1-1
+Added Pin To Net: NetName=Net*16_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=Net*4_1 Pin=Q2-1
+Added Pin To Net: NetName=Net*6_1 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=Net*16_3 Pin=R1-1
+Added Pin To Net: NetName=Net*16_1 Pin=R1-2
+Added Pin To Net: NetName=Net*9_2 Pin=R2-1
+Added Pin To Net: NetName=Net*15_2 Pin=R2-2
+Added Pin To Net: NetName=Net*16_2 Pin=R3-1
+Added Pin To Net: NetName=Net*22_3 Pin=R3-2
+Added Pin To Net: NetName=Net*6_1 Pin=R4-1
+Added Pin To Net: NetName=Net*10_1 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=Net*16_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=Net*6_1 Pin=R6-2
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=Net*1_2 Pin=R7-2
+Added Pin To Net: NetName=Net*13_2 Pin=R8-1
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=Net*10_2 Pin=U1-3
+Added Pin To Net: NetName=Net*3_4 Pin=U2-1
+Added Pin To Net: NetName=Net*16_3 Pin=U2-3
+Added Pin To Net: NetName=Net*9_2 Pin=U2-4
+Added Pin To Net: NetName=Net*14_2 Pin=U2-5
+Added Pin To Net: NetName=Net*14_1 Pin=U2-6
+Added Pin To Net: NetName=Net*1_1 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=Net*22_3 Pin=U2-9
+Added Pin To Net: NetName=Net*2_1 Pin=U2-10
+Added Pin To Net: NetName=Net*10_1 Pin=U2-11
+Added Pin To Net: NetName=5V Pin=U2-12
+Added Pin To Net: NetName=Net*11_2 Pin=U2-16
+Change Net Name : Old Net Name=Net*1_1 New Net Name=NetC1_2
+Change Net Name : Old Net Name=Net*1_2 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=Net*2_1 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=Net*3_4 New Net Name=NetP4_1
+Change Net Name : Old Net Name=Net*4_1 New Net Name=NetP5_2
+Change Net Name : Old Net Name=Net*5_4 New Net Name=NetP5_3
+Change Net Name : Old Net Name=Net*6_1 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=Net*9_2 New Net Name=NetR2_1
+Change Net Name : Old Net Name=Net*10_1 New Net Name=NetR4_2
+Change Net Name : Old Net Name=Net*10_2 New Net Name=Net*24_2
+Change Net Name : Old Net Name=Net*11_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=Net*13_1 New Net Name=Net*24_1
+Change Net Name : Old Net Name=Net*13_2 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=Net*14_1 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=Net*14_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=Net*15_2 New Net Name=NetP1_4
+Change Net Name : Old Net Name=Net*16_1 New Net Name=NetP2_4
+Change Net Name : Old Net Name=Net*16_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=Net*16_3 New Net Name=NetR1_1
+Change Net Name : Old Net Name=Net*22_3 New Net Name=NetR3_2
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component *24 sod
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component C1 cap
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component C2 cap
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component C3 cap
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component C4 cap
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component LED1 led
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component LED2 led
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component LED3 led
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component LED4 led
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component P1 T_PAD
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component P2 T_PAD
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component P3 pad2
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component P4 pad1
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component P5 pad3
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component Q1 pnp
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component Q2 pnp
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R1 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R2 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R3 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R4 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R5 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R6 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R7 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component R8 res
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component U1 u2
+Added Member To Class: ClassName=Ë«¼üµÆ Member=Component U2 u
+Added Room: Name=Ë«¼üµÆ
